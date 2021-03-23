@@ -1,0 +1,27 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This is the main JSON package for installing all dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10-kp/readme-generator.git"
+  },
+  "keywords": [
+    "readme-gen",
+    "file"
+  ],
+  "author": "Kp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/10-kp/readme-generator/issues"
+  },
+  "homepage": "https://github.com/10-kp/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {}
+}
