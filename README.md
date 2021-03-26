@@ -2,7 +2,8 @@
 
 Git Hub Link: https://github.com/10-kp/readme-generator
 
-[!BadgeforGitHub] https://img.shields.io/badge/javascript-100%25-blue
+<!-- HOW TO ADD THE BADGE -->
+![BadgeforGitHub] https://img.shields.io/badge/javascript-100%25-blue
 
 Description
 
@@ -16,7 +17,6 @@ Description
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [License](#license)
   
   ## Installation
@@ -32,18 +32,24 @@ Description
   - Then add a contribute and test section
   
   ## Usage 
+
+    [![usage video]"Click Me!")<br><br>
+
+
+  A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
   
+  Review the [Good README guide](../../01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md) as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command: node index.
 
   
   ## Contributing
   
   Please use for fork.
 
-  ![Badge for GitHub] https://img.shields.io/github/forks/10-kp/readme-generator?style=social
+  ![GitHub] https://img.shields.io/github/forks/10-kp/readme-generator?style=social
   
   
   ## License
   
-  ![Badge for GitHub] https://img.shields.io/npm/l/inquirer
+  ![GitHub] https://img.shields.io/npm/l/inquirer
   
   ---
