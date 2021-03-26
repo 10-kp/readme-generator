@@ -2,7 +2,7 @@
 
 Git Hub Link: https://github.com/10-kp/readme-generator
 
-![Badge for GitHub] https://img.shields.io/badge/javascript-100%25-blue
+[!BadgeforGitHub] https://img.shields.io/badge/javascript-100%25-blue
 
 Description
 
@@ -33,6 +33,7 @@ Description
   
   ## Usage 
   
+
   
   ## Contributing
   
