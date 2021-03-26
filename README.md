@@ -1,1 +1,48 @@
 # readme-generator
+
+Git Hub Link: https://github.com/10-kp/readme-generator
+
+![Badge for GitHub] https://img.shields.io/badge/javascript-100%25-blue
+
+Description
+
+ ## Description   
+  - To create an open source project on GitHub 
+  - Create a README code with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. 
+  - A command-line application will allow for quick and easy generation of a project README to get started quickly. 
+  - The objective of creating this README code will allow a project creator to spend more time working on finishing the project and less time creating a good README.
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [License](#license)
+  
+  ## Installation
+  
+  Step by step instructions
+  - Given a command-line application that accepts user input 
+  - When prompted for information about my application repository, a quality, professional README.md is generated with the title of the project.
+  - Furhter, sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions are incorporated. 
+  - After entering project title, this is displayed as the title of the README. 
+  - A description, installation instructions, usage information, contribution guidelines, and test instructions will be added.
+  - This information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests. 
+  - Choose a license for the application from a list of options
+  - Then add a contribute and test section
+  
+  ## Usage 
+  
+  
+  ## Contributing
+  
+  Please use for fork.
+
+  ![Badge for GitHub] https://img.shields.io/github/forks/10-kp/readme-generator?style=social
+  
+  
+  ## License
+  
+  ![Badge for GitHub] https://img.shields.io/npm/l/inquirer
+  
+  ---

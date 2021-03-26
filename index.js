@@ -36,14 +36,16 @@ const questions = [
     // 6. Explain the instructions for the project
     {
         type: "input",
-        name: "projectintall",
+        name: "project installation",
         message: "Give details of your project installation?",
     },
     // 7. Create license list
+    //https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository
     {
         type: "input",
         name: "license",
         message: "Which license did you use?",
+        choices: ['afl-3.0', 'apache-2.0', 'artistic-2.0', 'bsl-1.0','cc','ecl-2.0', 'epl-1.0', 'mit', 'others'],
     },
     // 8. How to contribute
     {
