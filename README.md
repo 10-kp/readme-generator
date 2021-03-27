@@ -32,13 +32,13 @@ Description
   
   ## Usage 
 
-[![](https://j.gifs.com/JyVMrl.gif)  <br>Click Me(https://drive.google.com/file/d/13GfnwZ4DEIraW4Y0fXXjokTNrsFnd9Rh/preview)</br>]()
+[![](https://j.gifs.com/JyVMrl.gif)  <br>Click Me(https://drive.google.com/file/d/13GfnwZ4DEIraW4Y0fXXjokTNrsFnd9Rh/view)</br>]()
 
 
   A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
   
   The application will be invoked with the following command: node index.
-  
+
   
   ## Contributing
   
