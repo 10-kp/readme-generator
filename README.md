@@ -4,11 +4,13 @@
 
 Git Hub Link: https://github.com/10-kp/readme-generator
 
+
  ## Description   
   - To create an open source project on GitHub 
   - Create a README code with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. 
   - A command-line application will allow for quick and easy generation of a project README to get started quickly. 
   - The objective of creating this README code will allow a project creator to spend more time working on finishing the project and less time creating a good README.
+
 
   ## Table of Contents
   * [Installation](#installation)
@@ -16,8 +18,8 @@ Git Hub Link: https://github.com/10-kp/readme-generator
   * [Contributing](#contributing)
   * [License](#license)
   
+
   ## Installation
-  
   Step by step instructions
   - Given a command-line application that accepts user input 
   - When prompted for information about my application repository, a quality, professional README.md is generated with the title of the project.
@@ -28,10 +30,10 @@ Git Hub Link: https://github.com/10-kp/readme-generator
   - Choose a license for the application from a list of options
   - Then add a contribute and test section
   
+
   ## Usage 
 
 [![](https://j.gifs.com/JyVMrl.gif) <br>Click Me <https://youtu.be/x_PA6XIOYNY></br> ]() 
-
 
   A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
   
@@ -39,13 +41,11 @@ Git Hub Link: https://github.com/10-kp/readme-generator
 
   
   ## Contributing
-  
   Please use for fork.
 
   [![](https://img.shields.io/github/forks/10-kp/readme-generator?style=social)]() 
   
   
   ## License
-  
   [![](https://img.shields.io/npm/l/inquirer)]()
   ---
