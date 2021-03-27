@@ -4,8 +4,6 @@
 
 Git Hub Link: https://github.com/10-kp/readme-generator
 
-Description
-
  ## Description   
   - To create an open source project on GitHub 
   - Create a README code with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. 
