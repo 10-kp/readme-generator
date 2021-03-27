@@ -32,12 +32,12 @@ Description
   
   ## Usage 
 
-[![](https://j.gifs.com/JyVMrl.gif)  <br>Click Me(https://drive.google.com/file/d/13GfnwZ4DEIraW4Y0fXXjokTNrsFnd9Rh/view)</br>]()
+[![](https://j.gifs.com/JyVMrl.gif) <br>Click Me <https://youtu.be/x_PA6XIOYNY></br> ]() 
 
 
-  A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
+  A command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
   
-  The application will be invoked with the following command: node index.
+  Review the [Good README guide](../../01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md) as a reminder of everything that a quality, professional README contains. The application will be invoked with the following command: node index.
 
   
   ## Contributing
